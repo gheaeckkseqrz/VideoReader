@@ -1,0 +1,8 @@
+# Emacs tmp files
+*~
+
+# Build
+build
+
+# Third Party
+third_party
